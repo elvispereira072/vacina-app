@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    background-color: blue;
+    color:black;
+    text-align: center;
+}
+
+article {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
